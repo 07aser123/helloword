@@ -1,0 +1,11 @@
+<div class="sp-fixedBar">
+<div>
+<a class="sp-gotop" href="javascript:;" style="display: none;">回到顶部</a>
+<a class="sp-feedback" target="_blank" href="/fby_offlineDownload/showDownloadList.action?nocache=1506497367753" style="background-image: none; color: #fff;">导出管理</a>
+<a class="sp-feedback" target="_blank" href="http://xue.yhd.com/showlist/zy/zy.html?nocache=1506497367753" style="background-image: none; color: #fff;">帮助中心</a>
+<a id="feedback" class="sp-feedback" href="javascript:void(0);" style="background-image: none; color: #fff;">问题反馈</a>
+<a class="sp-feedback" target="_blank" href="/fbyPurchase/init.action?nocache=1506497367753" style="background-image: none; color: #fff;">联系采购</a>
+</div>
+</div>
+
+
